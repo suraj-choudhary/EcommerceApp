@@ -17,6 +17,7 @@
 		17740FC52989D54600965408 /* OnBoardingPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17740FC42989D54600965408 /* OnBoardingPage.swift */; };
 		17740FC72989E05900965408 /* LoginPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17740FC62989E05900965408 /* LoginPage.swift */; };
 		17740FCA2989E0C300965408 /* LoginPageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17740FC92989E0C300965408 /* LoginPageModel.swift */; };
+		17EDE875298B1E8B0078DAC6 /* CustomCorners.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17EDE874298B1E8B0078DAC6 /* CustomCorners.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		17740FC42989D54600965408 /* OnBoardingPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnBoardingPage.swift; sourceTree = "<group>"; };
 		17740FC62989E05900965408 /* LoginPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPage.swift; sourceTree = "<group>"; };
 		17740FC92989E0C300965408 /* LoginPageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginPageModel.swift; sourceTree = "<group>"; };
+		17EDE874298B1E8B0078DAC6 /* CustomCorners.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCorners.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				17740FC42989D54600965408 /* OnBoardingPage.swift */,
 				17740FC62989E05900965408 /* LoginPage.swift */,
+				17EDE874298B1E8B0078DAC6 /* CustomCorners.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				17740FC72989E05900965408 /* LoginPage.swift in Sources */,
+				17EDE875298B1E8B0078DAC6 /* CustomCorners.swift in Sources */,
 				17740FCA2989E0C300965408 /* LoginPageModel.swift in Sources */,
 				17740FB02989D12300965408 /* ContentView.swift in Sources */,
 				17740FC52989D54600965408 /* OnBoardingPage.swift in Sources */,

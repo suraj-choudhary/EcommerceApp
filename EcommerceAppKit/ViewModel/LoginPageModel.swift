@@ -13,9 +13,9 @@ class LoginPageModel: ObservableObject {
     @Published var showPassword: Bool = false
     
     //Register Properties:
-    
+    @Published var registerUser: Bool = false
     @Published var re_Enter_password: String = ""
-    @Published var showReEnterPassword: String = ""
+    @Published var showReEnterPassword: Bool = false
     
     // Login call
     
